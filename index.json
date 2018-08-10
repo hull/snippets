@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Post-NPS categorization",
+    "tags": ["processor"],
+    "slug": "post_nps_categorization",
+    "readme": "/post_nps/README.md",
+    "url": "/post_nps/index.js"
+  }
+]
